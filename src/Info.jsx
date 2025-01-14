@@ -29,9 +29,9 @@ const myLinks = [
         link : "https://www.linkedin.com/in/hari-krishnan-v-k-b6193014a/"
     },
     {
-        name : "Website",
+        name : "Resume",
         component : <LanguageIcon />,
-        link : "https://github.com/Harikrishnanvkph"
+        link : "https://drive.google.com/file/d/1R_Knyzxe7v-_Vqo3PDPSOcPZeBWyjrbb/view?usp=sharing"
     }
 ]
 
