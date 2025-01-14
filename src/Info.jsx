@@ -26,7 +26,7 @@ const myLinks = [
     {
         name : "LinkedIn",
         component : <LinkedInIcon />,
-        link : "https://github.com/Harikrishnanvkph"
+        link : "https://www.linkedin.com/in/hari-krishnan-v-k-b6193014a/"
     },
     {
         name : "Website",
